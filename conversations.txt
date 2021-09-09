@@ -1,1 +1,2 @@
 Hi Rebecca: What is your favorite artist / musician? #git-first-assignment
+My favorite artist at the moment is Billie Eilish.
